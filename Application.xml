@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<application name=" " description="" >
+	<sarfile name="Hackatho_010101_20221005T110050_GMT_schema.jar" order="1"/>
+	<parfile name="Hackatho_010101_20221005T110050_GMT_rules.jar" order="2"/>
+</application>

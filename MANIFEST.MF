@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-07-04
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Hackatho
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2022-Oct-05 00:00:00
+PRPC-Engine: 8.7.3 PRPC-8.7.3-469 ()
+Operator: stephen.yeomans@withyouwithme.com
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: Hackatho_010101_20221005T110050_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2022-Oct-05 07:01:11
+Pega-Codeset-Name: Customer
+Instance-Count: 14861
+
+Name: FileMetadata
+
